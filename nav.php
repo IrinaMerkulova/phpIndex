@@ -10,6 +10,9 @@
             <a href="?leht=joonis.php">JS joonis</a>
         </li>
         <li>
+            <a href="?leht=tekstFunktsioonid.php">Tekst funktsioonid</a>
+        </li>
+        <li>
             <a href="https://merkulova.thkit.ee/ta/">WP leht</a>
         </li>
     </ul>
