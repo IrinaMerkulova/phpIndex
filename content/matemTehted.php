@@ -29,7 +29,7 @@ echo "</ul>";
 echo $arv1. " ja ". $arv2. "<br>";
 echo "<h2>Vastuste kontroll</h2>";
 ?>
-    <form name="arvud" action="<?=clearVarsExcept(basename($_SERVER['REQUEST_URI']), "leht")?>" method='post'>
+    <form name="arvud" action="<?=clearVarsExcept($_SERVER['REQUEST_URI'], "leht")?>" method='post'>
         <label for="arv1">Arv1</label>
         <input type="number" name="arv1" id="arv1" min="0" max="10" step="1">
         <br>
