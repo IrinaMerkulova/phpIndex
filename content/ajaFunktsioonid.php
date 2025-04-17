@@ -79,7 +79,7 @@ echo "<br>";
     */
     //2. Leia mitu päeva on koolivaheajani - 16.06.2025 (kasuta date_diff funktsiooni)
    // 3. Oma näide, mis arvutab midagi ajafunktsiooniga.
-
+//https://github.com/IrinaMerkulova/phpIndex
 
 
 </div>
